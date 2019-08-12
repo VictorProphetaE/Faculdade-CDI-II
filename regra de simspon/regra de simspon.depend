@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1445486117 source:f:\new folder\root\nova pasta\regra de simspon\main.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+	"menu.h"
+	"funcao.h"
+	"derivada.h"
+
+1445457297 f:\new folder\root\nova pasta\regra de simspon\funcao.h
+
+1445457297 f:\new folder\root\nova pasta\regra de simspon\derivada.h
+
+1445457441 source:f:\new folder\root\nova pasta\regra de simspon\derivada.cpp
+	<cmath>
+	"derivada.h"
+
+1445485955 source:f:\new folder\root\nova pasta\regra de simspon\funcao.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+	"funcao.h"
+	"derivada.h"
+
+1445457297 f:\new folder\root\nova pasta\regra de simspon\menu.h
+
+1445457441 source:f:\new folder\root\nova pasta\regra de simspon\menu.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+	"menu.h"
+	"funcao.h"
+	"derivada.h"
+
